@@ -1,0 +1,2 @@
+# FantasyStar
+FantasyStarCode
